@@ -6,3 +6,4 @@ link video
 4. folder ytutor4: https://youtu.be/CgxEA9iMMWI
 5. folder ytutor5: https://youtu.be/BADD8S0QIpc 
 6. folder ytutor6: https://youtu.be/mikht2lEnI0
+7. folder ytutor7: https://youtu.be/Tf6qm5JMUXQ
